@@ -3,3 +3,4 @@ line2
 modified by B
 line3
 line4
+modified by B
